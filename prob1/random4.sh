@@ -1,4 +1,4 @@
-#! bin/bash -x
+#!/bin/bash -x
 
 a=$(( RANDOM%90 + 10 ))
 b=$(( RANDOM%90 + 10 ))
